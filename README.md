@@ -1,2 +1,2 @@
 # LeetQuant
-A quick library for Quantitative Time Series Prediction
+*A quick library for Time Series Prediction for Quants *
